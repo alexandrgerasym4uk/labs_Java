@@ -1,0 +1,10 @@
+models\Person.class
+models\Product.class
+serializers\Serializer$ProductXMLGenerator.class
+annotations\FieldMapping.class
+serializers\Serializer$PersonJsonGenerator.class
+serializers\Serializer.class
+annotations\Serializable.class
+main\Main.class
+models\Book.class
+serializers\Serializer$BookXMLGenerator.class
